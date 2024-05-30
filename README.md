@@ -1,0 +1,1 @@
+This whole repository contains multiple iterations of a drone UI. Each design has it's own level of expertise and features and is more of an experimental kind of repository wherein we keep improving with each iteration.
